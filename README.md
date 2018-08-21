@@ -1,2 +1,0 @@
-# PagenationTable
-Created with CodeSandbox
